@@ -48,7 +48,7 @@ The project is organized as follows:
 - **3.2 Cluster Homogeneity:**
   - Comment on the homogeneity of clusters obtained from k-means, and discuss whether the clusters make sense in the context of the dataset.
  
-### 1. Import Breast Cancer Dataset
+# Breast Cancer Dataset
 
 - **1.1 Import Breast Cancer Dataset:**
   - Use the `sklearn.datasets` library to import the breast cancer dataset.
